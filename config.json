@@ -1,0 +1,7 @@
+{
+  "secret": "cfb8431e632a2378db973f99ba810fc19157d1467d379b98c600e31742affe20",
+  "tgId": "5287841088",
+  "initData": "query_id=AAFADS47AgAAAEANLjuroNaY&user=%7B%22id%22%3A5287841088%2C%22first_name%22%3A%22X%20%7C%20D%20u%20m%20p%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ExETHER%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719262307&hash=7cd3c88c594ef9a82433703c5335b1d142192d7ab734a9ed1f29004e4e36327d",
+  "telegram_bot_token": "7083360137:AAHCFj2u4dRsbxVcsagOeIbe86DdIUXXw8o",
+  "telegram_chat_id": "2016497092"
+}
